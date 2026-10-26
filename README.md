@@ -37,5 +37,3 @@ This project is intended for educational and analytical purposes only. The analy
 
 ## Author
 Akshat Gupta
-
-If you find this project useful, feel free to ⭐ the repository!
